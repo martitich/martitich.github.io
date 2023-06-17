@@ -8,31 +8,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Porfolio Marta
 
-**Web:**   (url github.io)
+**Web:**   martitich.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Marta Illescas Chica
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : En este proyecto quería enseñar un poco las obras que he estado realizando estos dos años de carrera. En el porfolio, muestro tanto dibujos como pinturas y esculturas. También hay una pequeña biografía para que quien lo vea me conozca un poco más. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : El logotipo es simplemente una m mayúscula con algunas hojas enredadas en la letra. 
 
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Probado en:** Google Chrome 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 03/2023 - 06/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:
 - Twitter
@@ -45,21 +39,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En este proyecto, lo primero que aparece es una intro, la cual comienza con unas hojas depejando la pantalla y dejando aparecer el logo, que seguidamente se mueve. Después de esto aparece el menú, donde están los apartados de pinturas, esculturas, dibujos, créditos, un minu juego, ajustes y la M del logo que te lleva a la biografia. 
 
 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+Intro-Menú-Minijuego(puzzle)-Ajustes(cambio de canción. volumen de canción y video explicativo del porfolio)-Créditos(informacion sobre quien ha realizado el proyecto y las fuentes y referentes usados)-Pinturas(algunos de los cuadros que he hecho convertidos en botones los cuales si los presionas te llevan a la imagen en grande)-Dibujos(te lleva a los dibujos realizados en un visor de imagenes que puedes pasar con las flechas correspondientes)-Esculturas(al igual que en el anterior esta hecho con un visor de imagenes) cada escena tiene su boton para volver al menu por si lo decea. 
 
 
 
@@ -71,22 +58,15 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+Este proyecto muestra los trabajos realizados en la facultad estos dos años. 
+Este proyecto esta orientado para toda clase de audiencia.
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
-
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todo tipo de publico. 
 
 
 
@@ -94,53 +74,37 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+Algunas de las cosas incorporadas en el proyecto son de internet, todo esto está indicado en los créditos, al igual que las canciones que también son sacadas de fuera.Todas las obras de arte que aparecen son de creación propia como he mencionado anteriormente.  
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Durante el proceso del proyecto he tenido varios problemas con la música y con el puzzle, con la música no se oía y en otra ocasión me pisaba una a otra pero conseguí resolverlo. En cuanto al puzzle, las piezas se me movían varias a la vez pero también conseguí solucionarlo.
+
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+La aplicación, la verdad, que al principio era un poco complicada y los términos de programación no los entendía, pero siento que he aprendido bastante en el tema de los ordenadores, ya que al comenzar no entendía nada y al final del cuatri me siento incluso orgullosa de de trabajo y de mi proceso.
 
 
 
 
 
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: all of me de John Legens (instrumental) y someone you love de Lewis Capaldi (instrumental).
+* Imágenes:  Canva. com y Freepik.com
+* Tipografía: Ginebra regular, Jost, Kunstler Script Regulay y Agency FB. 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2023
+Junio 2023
